@@ -1,92 +1,154 @@
 name: Foxes
 emoji:
-  - name: ":NonoAww:"
-    url: "https://cdn.discordapp.com/emojis/614286606299430933.png"
-    
-  - name: ":NonoBlush:"
-    url: "https://cdn.discordapp.com/emojis/615316917623848966.png"
-    
-  - name: ":NonoComf:"
-    url: "https://cdn.discordapp.com/emojis/614282918331809792.png"
-    
-  - name: ":NonoCool:"
-    url: "https://cdn.discordapp.com/emojis/614283297954201611.png"
-    
-  - name: ":NonoD:"
-    url: "https://cdn.discordapp.com/emojis/614283445027471360.png"
-    
-  - name: ":NonoDerp:"
-    url: "https://cdn.discordapp.com/emojis/614283833977733152.png"
-    
-  - name: ":NonoDrink:"
-    url: "https://cdn.discordapp.com/emojis/614288091062075395.png"
-    
-  - name: ":NonoFacepalm:"
-    url: "https://cdn.discordapp.com/emojis/614284188488826890.png"
-    
-  - name: ":NonoHap:"
-    url: "https://cdn.discordapp.com/emojis/615299895703896073.png"
-    
-  - name: ":NonoHi:"
-    url: "https://cdn.discordapp.com/emojis/614284757114552370.png"
-    
-  - name: ":NonoHug:"
-    url: "https://cdn.discordapp.com/emojis/614285082126974976.png"
-    
-  - name: ":NonoHype:"
-    url: "https://cdn.discordapp.com/emojis/614285252785078278.png"
-    
-  - name: ":NonoGift:"
-    url: "https://cdn.discordapp.com/emojis/614284601099288607.png"
-    
-  - name: ":NonoLel:"
-    url: "https://cdn.discordapp.com/emojis/614285505269465133.png"
-    
-  - name: ":NonoLoveU:"
-    url: "https://cdn.discordapp.com/emojis/614285382225362954.png"
-    
-  - name: ":NonoModo:"
-    url: "https://cdn.discordapp.com/emojis/614288661210595328.png"
-    
-  - name: ":NonoNap:"
-    url: "https://cdn.discordapp.com/emojis/614286308898242579.png"
-    
-  - name: ":NonoOK:"
-    url: "https://cdn.discordapp.com/emojis/614286453706588160.png"
-    
-  - name: ":NonoOWO:"
-    url: "https://cdn.discordapp.com/emojis/614287186182799370.png"
-    
-  - name: ":NonoPat:"
-    url: "https://cdn.discordapp.com/emojis/615292508188180490.png"
-    
-  - name: ":NonoPout:"
-    url: "https://cdn.discordapp.com/emojis/614287330953396226.png"
-    
-  - name: ":NonoPure:"
-    url: "https://cdn.discordapp.com/emojis/615165462086549514.png"
-    
-  - name: ":NonoRage:"
-    url: "https://cdn.discordapp.com/emojis/614287709510565899.png"
-    
-  - name: ":NonoRawr:"
-    url: "https://cdn.discordapp.com/emojis/614287839642779668.png"
-    
-  - name: ":NonoSad:"
-    url: "https://cdn.discordapp.com/emojis/614287958782115841.png"
-    
-  - name: ":NonoShocked:"
-    url: "https://cdn.discordapp.com/emojis/614286161619451914.png"
-    
-  - name: ":NonoUWU:"
-    url: "https://cdn.discordapp.com/emojis/614288366921580574.png"
-    
-  - name: ":NonoYay:"
-    url: "https://cdn.discordapp.com/emojis/615325178330742789.png"
-    
-  - name: ":Cookie:"
-    url: "https://cdn.discordapp.com/emojis/790873865193783316.png"
-    
   - name: ":TailHug:"
     url: "https://cdn.discordapp.com/emojis/908183858980216933.webp"
     
+  - name: ":FoxAww:"
+    url: "https://cdn.discordapp.com/emojis/1099248533267296266.webp?size=160&quality=lossless"
+    
+  - name: ":FoxBlush:"
+    url: "https://cdn.discordapp.com/emojis/1099248591740088330.webp?size=44&quality=lossless"
+    
+  - name: ":FoxComfy:"
+    url: "https://cdn.discordapp.com/emojis/1099248616268374026.webp?size=44&quality=lossless"
+    
+  - name: ":FoxCookie:"
+    url: "https://cdn.discordapp.com/emojis/1099248637525098576.webp?size=44&quality=lossless"
+    
+  - name: ":FoxCool:"
+    url: "https://cdn.discordapp.com/emojis/1099248671721267231.webp?size=44&quality=lossless"
+    
+  - name: ":FoxCry:"
+    url: "https://cdn.discordapp.com/emojis/1099248694374703145.webp?size=44&quality=lossless"
+    
+  - name: ":FoxDerp:"
+    url: "https://cdn.discordapp.com/emojis/1099248724183625798.webp?size=44&quality=lossless"
+    
+  - name: ":FoxFacepalm:"
+    url: "https://cdn.discordapp.com/emojis/1099248746887393280.webp?size=44&quality=lossless"
+    
+  - name: ":FoxFlower:"
+    url: "https://cdn.discordapp.com/emojis/1099248770174160926.webp?size=44&quality=lossless"
+    
+  - name: ":FoxGun:"
+    url: "https://cdn.discordapp.com/emojis/1099248788176125983.webp?size=44&quality=lossless"
+    
+  - name: ":FoxHappy:"
+    url: "https://cdn.discordapp.com/emojis/1099248814864465930.webp?size=44&quality=lossless"
+    
+  - name: ":FoxHeart:"
+    url: "https://cdn.discordapp.com/emojis/1099248837232701440.webp?size=44&quality=lossless"
+    
+  - name: ":FoxHug:"
+    url: "https://cdn.discordapp.com/emojis/1099248858942427146.webp?size=44&quality=lossless"
+    
+  - name: ":FoxHype:"
+    url: "https://cdn.discordapp.com/emojis/1099248878018121808.webp?size=44&quality=lossless"
+    
+  - name: ":FoxLaugh:"
+    url: "https://cdn.discordapp.com/emojis/1099248898079469639.webp?size=44&quality=lossless"
+    
+  - name: ":FoxOK:"
+    url: "https://cdn.discordapp.com/emojis/1099248925535379516.webp?size=44&quality=lossless"
+    
+  - name: ":FoxOwO:"
+    url: "https://cdn.discordapp.com/emojis/1099248948910235648.webp?size=44&quality=lossless"
+    
+  - name: ":FoxPat:"
+    url: "https://cdn.discordapp.com/emojis/1099249030720143450.webp?size=44&quality=lossless"
+    
+  - name: ":FoxPolice:"
+    url: "https://cdn.discordapp.com/emojis/1099249054854172742.webp?size=44&quality=lossless"
+    
+  - name: ":FoxPopcorn:"
+    url: "https://cdn.discordapp.com/emojis/1099249086722486293.webp?size=44&quality=lossless"
+    
+  - name: ":FoxPout:"
+    url: "https://cdn.discordapp.com/emojis/1099249148089352205.webp?size=44&quality=lossless"
+    
+  - name: ":FoxPure:"
+    url: "https://cdn.discordapp.com/emojis/1099249182600089642.webp?size=44&quality=lossless"
+    
+  - name: ":FoxRage:"
+    url: "https://cdn.discordapp.com/emojis/1099249222051700747.webp?size=44&quality=lossless"
+    
+  - name: ":FoxRawr:"
+    url: "https://cdn.discordapp.com/emojis/1099249262476394596.webp?size=44&quality=lossless"
+    
+  - name: ":FoxShocked:"
+    url: "https://cdn.discordapp.com/emojis/1099249287415742574.webp?size=44&quality=lossless"
+    
+  - name: ":FoxShrug:"
+    url: "https://cdn.discordapp.com/emojis/1099249321133752371.webp?size=44&quality=lossless"
+    
+  - name: ":FoxSip:"
+    url: "https://cdn.discordapp.com/emojis/1099249353991913542.webp?size=44&quality=lossless"
+    
+  - name: ":FoxSleep:"
+    url: "https://cdn.discordapp.com/emojis/1099249382328635392.webp?size=44&quality=lossless"
+    
+  - name: ":FoxSmirk:"
+    url: "https://cdn.discordapp.com/emojis/1099249418718412840.webp?size=44&quality=lossless"
+    
+  - name: ":FoxThink:"
+    url: "https://cdn.discordapp.com/emojis/1099249452696477797.webp?size=44&quality=lossless"
+    
+  - name: ":FoxUwU:"
+    url: "https://cdn.discordapp.com/emojis/1099249479724585000.webp?size=44&quality=lossless"
+    
+  - name: ":FoxWave:"
+    url: "https://cdn.discordapp.com/emojis/1099249515162259476.webp?size=44&quality=lossless"
+    
+  - name: ":FoxWorried:"
+    url: "https://cdn.discordapp.com/emojis/1099249550180495491.webp?size=44&quality=lossless"
+    
+  - name: ":FoxYay:"
+    url: "https://cdn.discordapp.com/emojis/1099249589082656799.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneBored:"
+    url: "https://cdn.discordapp.com/emojis/1100129023910232116.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneCheer:"
+    url: "https://cdn.discordapp.com/emojis/1100129079082106993.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneClumsy:"
+    url: "https://cdn.discordapp.com/emojis/1100129153711349760.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneCry:"
+    url: "https://cdn.discordapp.com/emojis/1100129176679358504.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneHAHAHA:"
+    url: "https://cdn.discordapp.com/emojis/1100129204747640832.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneHappy:"
+    url: "https://cdn.discordapp.com/emojis/1100129232631382027.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneHi:"
+    url: "https://cdn.discordapp.com/emojis/1100129258954817677.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneMorning:"
+    url: "https://cdn.discordapp.com/emojis/1100129285156647003.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneOk:"
+    url: "https://cdn.discordapp.com/emojis/1100129311190687845.webp?size=44&quality=lossless"
+    
+  - name: ":KitsunePout:"
+    url: "https://cdn.discordapp.com/emojis/1100129344568954940.webp?size=44&quality=lossless"
+    
+  - name: ":KitsunePray:"
+    url: "https://cdn.discordapp.com/emojis/1100129386319065178.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneShocked:"
+    url: "https://cdn.discordapp.com/emojis/1100129413460394055.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneSleep:"
+    url: "https://cdn.discordapp.com/emojis/1100129455319564380.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneThanks:"
+    url: "https://cdn.discordapp.com/emojis/1100129986012250122.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneThink:"
+    url: "https://cdn.discordapp.com/emojis/1100130126164930792.webp?size=44&quality=lossless"
+    
+  - name: ":KitsuneYummy:"
+    url: "https://cdn.discordapp.com/emojis/1100130168103772200.webp?size=44&quality=lossless"
